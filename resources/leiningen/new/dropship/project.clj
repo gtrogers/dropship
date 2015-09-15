@@ -9,8 +9,7 @@
                  [ring "1.3.2"]
                  [ring/ring-json "0.4.0"]
                  [scenic "0.2.5"]
-                 [cheshire "5.5.0"]
-                 [org.clojure/data.json "0.2.6"]]
+                 [cheshire "5.5.0"]]
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}
              :dev {:dependencies [[midje "1.6.3"]
