@@ -1,4 +1,4 @@
-(defproject dropship/lein-template "0.1.0-SNAPSHOT"
+(defproject dropship/lein-template "0.0.1"
   :description "Leiningen Template for Building Microservices"
   :url "https://github.com/gtrogers/dropship"
   :license {:name "Eclipse Public License"
